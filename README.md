@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤔 I'm a retired programmer looking to contribute to open source projects, currently contemplating the areas of cybersecurity and health care.
+- 🤔 I'm a retired programmer looking to contribute to open source projects, perhaps in the areas of cybersecurity or health care.
 - 🌱 I’m currently learning GitHub and will start on a much smaller scale like bug fixes in code that I already am familiar with.
 
 <!--
